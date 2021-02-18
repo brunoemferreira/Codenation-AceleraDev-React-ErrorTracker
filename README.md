@@ -2,7 +2,7 @@
   <img src="assets/logo.png" />
 </div>
 
-# 📟 Codenation - AceleraDev React - Projeto Final ( Event Log Tracker )
+<h1 align="center" > 📟 Codenation - AceleraDev React - Projeto Final ( Event Log Tracker ) </h1>
 
 
 ## 🚀 Sobre o Projeto
