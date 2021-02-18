@@ -15,13 +15,22 @@
   </a>
 </p>
 
-## 🚀 Sobre o Projeto
+<p align="center">
+  <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#objetivos">Objetivos do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ferramentas">Ferramentas e Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#imagens">Imagens do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#documentacao">Documentação do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<h2 id="sobre"> 🚀 Sobre o Projeto </h2>
 
 Event Log Tracker é uma plataforma que tem como objetivo principal centralizar logs (eventos) dos sistemas em um único local, para que seja possível fazer o gerenciamento de forma fácil e rápida.
 
 Event Log Tracker é um projeto de trabalho final do curso AceleraDev React da Codenation em parceria com Kroton.
 
-## 📝 Objetivos do Projeto
+<h2 id="objetivos"> 📝 Objetivos do Projeto </h2>
 
 Em projetos modernos é cada vez mais comum o uso de arquiteturas baseadas em serviços ou microsserviços. Nestes ambientes complexos, erros podem surgir em diferentes camadas da aplicação (backend, frontend, mobile, desktop) e mesmo em serviços distintos. Desta forma, é muito importante que os desenvolvedores possam centralizar todos os registros de erros em um local, de onde podem monitorar e tomar decisões mais acertadas. Neste projeto vamos implementar um sistema para centralizar registros de erros de aplicações.
 
@@ -53,29 +62,27 @@ Os wireframes a seguir servem para ilustrar as funcionalidades básicas que a ap
   <img src="assets/wireframe7.png" />
 </div>
 
-## 🧰 Ferramentas e Bibliotecas
+<h2 id="ferramentas">🧰 Ferramentas e Bibliotecas</h2>
 
+### Ferramentas de Desenvenvolvimento e Gerenciamento de Projetos
 - [Visual Studio Code]() - IDE de Desenvolvimento
-- []() - 
-- []() - 
-- [ReactJS]() - Biblioteca de Desenvolvimento 
-- []() - Biblioteca Visual
-- []() - 
-- []() - 
-- []() - 
-- []() - 
+- [Trello]() - 
 
+### Backend  and Authentication
+- [Firebase]() - Backend as a Service
+- [Firebase Authentication]() - Serviço de Autenticação
 
-
-
-### Backend and Database
-- [Firebase]() - 
+### Database
+- [Firebase Firestore NoSql]() - Banco de Dados NoSQl  
 
 ### Frontend
-
-
-
-
+* HTML
+* CSS
+* JavaScript
+* [ReactJS]() - Biblioteca de Desenvolvimento
+  * [Redux]() -  
+  * [Styled Components]() - Biblioteca Visual 
+  * []() - Biblioteca de 
 
 ### Versioning 
 - [GitHub]() - Versionamento de Código
@@ -84,7 +91,13 @@ Os wireframes a seguir servem para ilustrar as funcionalidades básicas que a ap
 - [Netlify](https://www.netlify.com/) - Deploy de Código e Hosting do Projeto.
 
 
-## 🖼️ Imagens do Projeto
+<h2 id="imagens">🖼️ Imagens do Projeto</h2>
+
+
+<h2 id="documentacao">📑 Documentação do Projeto</h2>
+
+[]() - Apresentação do Projeto em PDF
+[]() - Apresentação do Projeto em PowerPoint
 
 
 
