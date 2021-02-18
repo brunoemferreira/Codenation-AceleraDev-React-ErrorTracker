@@ -4,6 +4,17 @@
 
 <h1 align="center"> 📟 Projeto Final ( Event Log Tracker )</h1>
 
+<!-- ************************************* Baadges ********************************************* -->
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/Codenation-AceleraDev-React-EventLogTracker?color=%2304D361">
+
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/Codenation-AceleraDev-React-EventLogTracker">
+
+  <a href="https://github.com/tgmarinho/nlw1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/Codenation-AceleraDev-React-EventLogTracker">
+  </a>
+</p>
+
 ## 🚀 Sobre o Projeto
 
 Event Log Tracker é uma plataforma que tem como objetivo principal centralizar logs (eventos) dos sistemas em um único local, para que seja possível fazer o gerenciamento de forma fácil e rápida.
@@ -53,7 +64,27 @@ Os wireframes a seguir servem para ilustrar as funcionalidades básicas que a ap
 - []() - 
 - []() - 
 - []() - 
-- []() - 
-- []() - 
 
-## 
+
+
+
+### Backend and Database
+- [Firebase]() - 
+
+### Frontend
+
+
+
+
+
+### Versioning 
+- [GitHub]() - Versionamento de Código
+
+### Deploy and Hosting
+- [Netlify](https://www.netlify.com/) - Deploy de Código e Hosting do Projeto.
+
+
+## 🖼️ Imagens do Projeto
+
+
+
