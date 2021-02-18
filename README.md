@@ -4,6 +4,8 @@
 
 <h1 align="center"> 📟 Projeto Final ( Event Log Tracker )</h1>
 
+<p align="center">Finalizado em 00/00/0000</p>
+
 <!-- ************************************* Baadges ********************************************* -->
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/Codenation-AceleraDev-React-EventLogTracker?color=%2304D361">
@@ -26,9 +28,9 @@
 
 <h2 id="sobre"> 🚀 Sobre o Projeto </h2>
 
-Event Log Tracker é uma plataforma que tem como objetivo principal centralizar logs (eventos) dos sistemas em um único local, para que seja possível fazer o gerenciamento de forma fácil e rápida.
+**Event Log Tracker** é uma plataforma que tem como objetivo principal centralizar logs (eventos) dos sistemas em um único local, para que seja possível fazer o gerenciamento de forma fácil e rápida.
 
-Event Log Tracker é um projeto de trabalho final do curso AceleraDev React da Codenation em parceria com Kroton.
+Event Log Tracker é um projeto de trabalho final do curso **AceleraDev React da Codenation** em parceria com **Kroton**.
 
 <h2 id="objetivos"> 📝 Objetivos do Projeto </h2>
 
@@ -73,12 +75,12 @@ Os wireframes a seguir servem para ilustrar as funcionalidades básicas que a ap
 - [Firebase Authentication]() - Serviço de Autenticação
 
 ### Database
-- [Firebase Firestore NoSql]() - Banco de Dados NoSQl  
+- [Firebase Firestore NoSql]() - Banco de Dados NoSQL  
 
 ### Frontend
-* HTML
-* CSS
-* JavaScript
+* **HTML**
+* **CSS**
+* **JavaScript**
 * [ReactJS]() - Biblioteca de Desenvolvimento
   * [Redux]() -  
   * [Styled Components]() - Biblioteca Visual 
